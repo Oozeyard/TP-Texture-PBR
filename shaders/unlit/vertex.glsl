@@ -37,7 +37,7 @@ out mat3 TBN;
 
 void main() {
   mat3 normalMatrix = mat3(transpose(inverse(model)));
-  o_uv0 = uv0;
+  o_uv0 = vec2(uv0[0], -1*uv0[1]);
   vec4 positionWorld = model * vec4(position, 1.0);
 
   // Calcul TBN
