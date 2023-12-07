@@ -1,8 +1,8 @@
 CMakeFiles/tp.dir/src/Camera.cpp.o: \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Camera.cpp \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Camera.cpp \
  /usr/include/stdc-predef.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Camera.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Trackball.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Camera.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Trackball.h \
  /usr/include/glm/glm.hpp /usr/include/glm/detail/_fixes.hpp \
  /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \

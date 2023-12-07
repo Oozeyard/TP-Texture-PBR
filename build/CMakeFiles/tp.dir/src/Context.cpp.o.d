@@ -1,9 +1,9 @@
 CMakeFiles/tp.dir/src/Context.cpp.o: \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Context.cpp \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Context.cpp \
  /usr/include/stdc-predef.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Context.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Camera.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Trackball.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Context.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Camera.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Trackball.h \
  /usr/include/glm/glm.hpp /usr/include/glm/detail/_fixes.hpp \
  /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -217,9 +217,9 @@ CMakeFiles/tp.dir/src/Context.cpp.o: \
  /usr/include/glm/detail/type_half.hpp \
  /usr/include/glm/detail/type_half.inl /usr/include/glm/integer.hpp \
  /usr/include/glm/detail/func_integer.inl \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Mesh.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Mesh.h \
  /usr/include/GL/glew.h /usr/include/GL/glu.h /usr/include/GL/gl.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Material.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Material.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
  /usr/include/glm/gtc/type_ptr.hpp /usr/include/glm/gtc/quaternion.hpp \

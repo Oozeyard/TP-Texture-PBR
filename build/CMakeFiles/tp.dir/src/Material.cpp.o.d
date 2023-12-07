@@ -1,7 +1,7 @@
 CMakeFiles/tp.dir/src/Material.cpp.o: \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Material.cpp \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Material.cpp \
  /usr/include/stdc-predef.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Material.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Material.h \
  /usr/include/GL/glew.h /usr/include/c++/11/cstddef \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -327,18 +327,18 @@ CMakeFiles/tp.dir/src/Material.cpp.o: \
  /usr/include/c++/11/exception /usr/include/c++/11/bits/exception_ptr.h \
  /usr/include/c++/11/bits/cxxabi_init_exception.h \
  /usr/include/c++/11/typeinfo /usr/include/c++/11/bits/nested_exception.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Shader.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Texture.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Context.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Camera.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Trackball.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Mesh.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Material.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Shader.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Texture.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Context.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Camera.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Trackball.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Mesh.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Material.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/stb_image.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/stb_image.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/ios_base.h \
  /usr/include/c++/11/bits/locale_classes.h \

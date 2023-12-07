@@ -59,8 +59,8 @@ void Material::init() {
 	m_color = {1.0, 1.0, 1.0, 1.0};
 	m_lightPos = {0.0, 1.5, 0.0};
 	m_lightColor = {1.0, 1.0, 1.0};
-	m_texture = loadTexture2DFromFilePath("data/Plane/TwoSidedPlane_BaseColor.png");
-	m_normal = loadTexture2DFromFilePath("data/Plane/TwoSidedPlane_Normal.png");
+	m_texture = loadTexture2DFromFilePath("data/Bottle/WaterBottle_baseColor.png");
+	m_normal = loadTexture2DFromFilePath("data/Bottle/WaterBottle_normal.png");
 
 	std::vector<std::string> faces  = {
     "./data/skybox/right.jpg",

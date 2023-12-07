@@ -1,5 +1,5 @@
 CMakeFiles/tp.dir/src/main.cpp.o: \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/main.cpp \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/GL/glew.h \
  /usr/include/c++/11/cstddef \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -395,15 +395,15 @@ CMakeFiles/tp.dir/src/main.cpp.o: \
  /usr/include/glm/gtx/dual_quaternion.hpp \
  /usr/include/glm/gtx/dual_quaternion.inl \
  /usr/include/glm/gtx/string_cast.inl /usr/include/c++/11/cstdarg \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Camera.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Trackball.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Shader.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Material.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Context.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Camera.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Mesh.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Material.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Mouse.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Keyboard.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/SceneLoader.h \
- /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/include/Texture.h
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Camera.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Trackball.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Shader.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Material.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Context.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Camera.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Mesh.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Material.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Mouse.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Keyboard.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/SceneLoader.h \
+ /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/include/Texture.h

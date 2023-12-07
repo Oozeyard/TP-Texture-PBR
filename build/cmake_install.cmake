@@ -1,4 +1,4 @@
-# Install script for directory: /home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template
+# Install script for directory: /home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

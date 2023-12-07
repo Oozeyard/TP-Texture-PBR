@@ -8,18 +8,18 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Camera.cpp" "CMakeFiles/tp.dir/src/Camera.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Camera.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Context.cpp" "CMakeFiles/tp.dir/src/Context.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Context.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Keyboard.cpp" "CMakeFiles/tp.dir/src/Keyboard.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Keyboard.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Material.cpp" "CMakeFiles/tp.dir/src/Material.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Material.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Mesh.cpp" "CMakeFiles/tp.dir/src/Mesh.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Mesh.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Mouse.cpp" "CMakeFiles/tp.dir/src/Mouse.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Mouse.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/SceneLoader.cpp" "CMakeFiles/tp.dir/src/SceneLoader.cpp.o" "gcc" "CMakeFiles/tp.dir/src/SceneLoader.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Shader.cpp" "CMakeFiles/tp.dir/src/Shader.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Shader.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Texture.cpp" "CMakeFiles/tp.dir/src/Texture.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Texture.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/Trackball.cpp" "CMakeFiles/tp.dir/src/Trackball.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Trackball.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/main.cpp" "CMakeFiles/tp.dir/src/main.cpp.o" "gcc" "CMakeFiles/tp.dir/src/main.cpp.o.d"
-  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/prog-3D-2023/template/src/stb_image.cpp" "CMakeFiles/tp.dir/src/stb_image.cpp.o" "gcc" "CMakeFiles/tp.dir/src/stb_image.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Camera.cpp" "CMakeFiles/tp.dir/src/Camera.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Camera.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Context.cpp" "CMakeFiles/tp.dir/src/Context.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Context.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Keyboard.cpp" "CMakeFiles/tp.dir/src/Keyboard.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Keyboard.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Material.cpp" "CMakeFiles/tp.dir/src/Material.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Material.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Mesh.cpp" "CMakeFiles/tp.dir/src/Mesh.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Mesh.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Mouse.cpp" "CMakeFiles/tp.dir/src/Mouse.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Mouse.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/SceneLoader.cpp" "CMakeFiles/tp.dir/src/SceneLoader.cpp.o" "gcc" "CMakeFiles/tp.dir/src/SceneLoader.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Shader.cpp" "CMakeFiles/tp.dir/src/Shader.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Shader.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Texture.cpp" "CMakeFiles/tp.dir/src/Texture.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Texture.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/Trackball.cpp" "CMakeFiles/tp.dir/src/Trackball.cpp.o" "gcc" "CMakeFiles/tp.dir/src/Trackball.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/main.cpp" "CMakeFiles/tp.dir/src/main.cpp.o" "gcc" "CMakeFiles/tp.dir/src/main.cpp.o.d"
+  "/home/mickael/Documents/S7/Prog3D/Tp/Tp4/Git/TP-Texture-PBR/src/stb_image.cpp" "CMakeFiles/tp.dir/src/stb_image.cpp.o" "gcc" "CMakeFiles/tp.dir/src/stb_image.cpp.o.d"
   )
 
 # Targets to which this target links.
